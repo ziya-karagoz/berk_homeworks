@@ -7,8 +7,8 @@ Bu repo, çalışanların günlük ödevlerini bulup geliştirme yapmaları içi
 Repo'yu bilgisayarınıza indirin:
 
 ```bash
-git clone https://github.com/ziya-karagoz/berk_homeworks.git
-cd berk_homeworks
+git clone https://github.com/ziya-karagoz/homeworks.git
+cd homeworks
 ```
 
 Gerekli kütüphaneleri yükleyin:
