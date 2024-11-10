@@ -27,4 +27,4 @@ Eğer toplam puan 0'dan küçük olursa, sonuç olarak **0 puan** döndürülür
 
 correct_answers = ["a", "a", "b", "d"]
 student_answers = ["a", "c", "b", ""]
-print(checkExam(correct_answers, student_answers))  # Çıktı: 7
+console.log(checkExam(correct_answers, student_answers))  // Çıktı: 7
