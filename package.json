@@ -1,0 +1,20 @@
+{
+  "name": "berk_homeworks",
+  "version": "1.0.0",
+  "description": "SSTTEK çalışan gelişim programı dahilinde Berk Parlak'a verilen ödevleri barınıdran repository.",
+  "main": "index.js",
+  "author": "ziyakaragozsst",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "berk_homeworks": "file:",
+    "chai": "^5.1.2",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
