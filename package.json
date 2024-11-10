@@ -12,6 +12,7 @@
   "dependencies": {
     "berk_homeworks": "file:",
     "chai": "^5.1.2",
+    "chalk": "^5.3.0",
     "nodemon": "^3.1.7"
   },
   "devDependencies": {
