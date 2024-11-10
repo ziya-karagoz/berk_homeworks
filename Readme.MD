@@ -60,4 +60,4 @@ Eğer başka bir günde ödev yapıyorsanız, testleri Visual Studio Code'da ça
 
 ## 🎉 Tebrikler!
 
-Bu adımları takip ederek ödevinizi başarılı bir şekilde tamamlayabilir ve testlerin hepsinin geçtiğinden emin olabilirsiniz. İyi çalışmalar ve başarılar dileriz! 🚀✨
+Bu adımları takip ederek ödevinizi başarılı bir şekilde tamamlayabilir ve testlerin hepsinin geçtiğinden emin olabilirsiniz. İyi çalışmalar ve başarılar dilerim! 🚀✨
