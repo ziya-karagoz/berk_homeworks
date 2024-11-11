@@ -1,19 +1,12 @@
-const trafficLights = require("./homework");
+const diagonalSum = require("./homework");
 
-describe("Sample test", () => {
+describe("Tests", () => {
     it("Should work", () => {
-        expect(trafficLights("C...R............G......", 10)).toEqual([
-            "C...R............G......", // 0
-            ".C..R............G......", // 1
-            "..C.R............G......", // 2
-            "...CR............G......", // 3
-            "...CR............G......", // 4
-            "....C............O......", // 5
-            "....GC...........R......", // 6
-            "....G.C..........R......", // 7
-            "....G..C.........R......", // 8
-            "....G...C........R......", // 9
-            "....O....C.......R......", // 10
-        ]);
-    });
-});
+        expect(diagonalSum([[12]])).toBe(12);
+        expect(diagonalSum([[1, 2], [3, 4]])).toBe(5);
+        expect(diagonalSum([[1, 2, 3], [4, 5, 6], [7, 8, 9]])).toBe(15);
+        expect(diagonalSum([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])).toBe(34);
+    }
+    );
+}
+);
