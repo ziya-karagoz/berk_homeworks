@@ -1,3 +1,4 @@
-function trafficLights(road, n) {
+function diagonalSum(matrix) {
 }
-module.exports = trafficLights;
+
+module.exports = diagonalSum;
